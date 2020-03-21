@@ -8,7 +8,6 @@
 //
 
 
-
 function breakChocolate(n,m) {
     let area = n*m
     if ( area === 0){

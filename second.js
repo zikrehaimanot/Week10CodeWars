@@ -7,14 +7,6 @@
 
 
 
-
-
-
-
-
-
-
-
 function lateRide(n) {
 
 let h = Math.floor((n/60)).toString()

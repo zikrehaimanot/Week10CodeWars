@@ -5,8 +5,6 @@
 // If the input array is empty consider it as: [0] (array with a zero).
 
 
-
-
 function oddOrEven(array) {
   let sum = 0;
   for(i=0; i<array.length; i++){
